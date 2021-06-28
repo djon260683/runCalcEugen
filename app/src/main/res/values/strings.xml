@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">runCalcEugen</string>
+    <string name="tt">Запускай калькулятор!!!</string>
+    <string name="run">Пуск</string>
+</resources>
